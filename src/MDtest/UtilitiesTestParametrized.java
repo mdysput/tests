@@ -35,6 +35,7 @@ public class UtilitiesTestParametrized {
                 {"ABBBEFGG", "ABEFG"},
                 {"112233345", "12345"},
                 {"A", "A"}
+
         });
     }
 
