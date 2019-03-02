@@ -39,7 +39,8 @@ public class BankAccountTestParametrized {
                 {100.00, true, 1100},
                 {200.00, true, 1200},
                 {325.14, true, 1325.14},
-                 {1000.00, true, 2000.00}
+                {1000.00, true, 2000.00}
+
         });
     }
 
